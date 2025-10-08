@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "routes": [
-    { "src": "/tiktokMJOBM2Sc8ycknlF7v2nD8M1wD3zDeI2Y.txt", "dest": "/tiktokMJOBM2Sc8ycknlF7v2nD8M1wD3zDeI2Y.txt" },
-    { "src": "/tiktokmjobm2sc8ycknlf7v2nd8m1wd3zdei2y.txt", "dest": "/tiktokMJOBM2Sc8ycknlF7v2nD8M1wD3zDeI2Y.txt" },
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
-}
