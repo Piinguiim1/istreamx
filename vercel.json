@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/tiktokWGxc0TK1kqHHXyA3oDp4uqdCaLqLz03A.txt", "dest": "/tiktokWGxc0TK1kqHHXyA3oDp4uqdCaLqLz03A.txt" },
+    { "src": "/tiktokwgxc0tk1kqhhxya3odp4uqdcalqlz03a.txt", "dest": "/tiktokWGxc0TK1kqHHXyA3oDp4uqdCaLqLz03A.txt" },
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
